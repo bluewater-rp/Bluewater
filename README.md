@@ -31,3 +31,4 @@ Welcome to Bluewater Roleplay.
 
 
 **© All Rights Reserved Bluewater Roleplay 2024**
+<i class="fa-solid fa-bolt"></i>

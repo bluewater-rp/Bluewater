@@ -30,4 +30,4 @@ Welcome to Bluewater Roleplay.
 **Ford F350 EMS**
 
 
-**© All Rights Reserved Bluewater Roleplay**
+**© All Rights Reserved Bluewater Roleplay 2024**

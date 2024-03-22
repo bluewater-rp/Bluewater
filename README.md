@@ -6,6 +6,8 @@ Welcome to Bluewater Roleplay.
 
 **TechnoJLS** - Assistant Head of Development, Deputy Project Manager, Co-Owner
 
+**Clixzx** - Senior Developer, Administrative Officer
+
 **Ace** - Senior Administrative Officer
 
 ## Vehicle List

@@ -10,6 +10,8 @@ Welcome to Bluewater Roleplay.
 
 **Ace** - Senior Administrative Officer
 
+## Update Log
+No updates to show. 
 ## Vehicle List
 ### Civilian Vehicle List
 **2001 Chevrolet Tahoe**

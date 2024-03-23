@@ -13,8 +13,6 @@ Welcome to Bluewater Roleplay, the all-new, action-packed roleplay game availabl
 ## Game Update Log
 No updates to show. 
 
-## Site Update Log
-
 
 ## Vehicle List
 ### Civilian Vehicle List

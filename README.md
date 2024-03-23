@@ -14,9 +14,6 @@ Welcome to Bluewater Roleplay, the all-new, action-packed roleplay game availabl
 No updates to show. 
 
 ## Site Update Log
-• Changed https://bluewater-rp.com to forward to here. 
-
-• Changed some stuff. 
 
 
 ## Vehicle List

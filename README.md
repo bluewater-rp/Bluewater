@@ -15,4 +15,4 @@ No updates to show.
 
 
 
-**© All Rights Reserved Bluewater Roleplay 2024**
+**© Bluewater Roleplay 2024**

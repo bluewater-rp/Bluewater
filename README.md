@@ -1,5 +1,5 @@
 # Bluewater Roleplay 
-Welcome to Bluewater Roleplay. 
+Welcome to Bluewater Roleplay, the all-new, action-packed roleplay game available on XBOX & PC.  
 
 ## Meet the staff
 **ThirtyOneStuds** - Head of Development, Project Manager, Owner

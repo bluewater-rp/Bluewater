@@ -10,12 +10,18 @@ Welcome to Bluewater Roleplay.
 
 **Ace** - Senior Administrative Officer
 
-## Update Log
+## Game Update Log
 No updates to show. 
+
+## Site Update Log
+• Changed https://bluewater-rp.com to forward to here. 
+
+• Changed some stuff. 
 
 ## Vehicle List
 ### Civilian Vehicle List
 **2001 Chevrolet Tahoe**
+
 **2014 Chevrolet Tahoe**
 
 ### Police Department Vehicle List

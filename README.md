@@ -31,4 +31,3 @@ Welcome to Bluewater Roleplay.
 
 
 **© All Rights Reserved Bluewater Roleplay 2024**
-https://www.roblox.com/games/13788934816/Bluewater-Roleplay

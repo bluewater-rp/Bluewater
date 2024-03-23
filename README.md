@@ -12,6 +12,7 @@ Welcome to Bluewater Roleplay.
 
 ## Update Log
 No updates to show. 
+
 ## Vehicle List
 ### Civilian Vehicle List
 **2001 Chevrolet Tahoe**

@@ -20,3 +20,5 @@ No updates to show.
 [Early Access](https://bluewater-rp.com/join)
 <br>
 [Roblox Game](https://www.roblox.com/games/13788934816/Bluewater-Roleplay)
+<br>
+[Roblox Group]([https://www.roblox.com/games/13788934816/Bluewater-Roleplay](https://www.roblox.com/groups/15955060/13DP#!/about)https://www.roblox.com/groups/15955060/13DP#!/about)

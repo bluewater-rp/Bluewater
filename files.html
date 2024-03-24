@@ -1,37 +1,63 @@
-<!-- HTML !-->
-<button class="button-39" role="button">Button 39</button>
-
-<style>/* CSS */
-.button-39 {
-  background-color: #FFFFFF;
-  border: 1px solid rgb(209,213,219);
-  border-radius: .5rem;
-  box-sizing: border-box;
-  color: #111827;
-  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-  font-size: .875rem;
-  font-weight: 600;
-  line-height: 1.25rem;
-  padding: .75rem 1rem;
-  text-align: center;
-  text-decoration: none #D1D5DB solid;
-  text-decoration-thickness: auto;
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  cursor: pointer;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
+<button>Test Button</button>
+<style>
+  button {
+ width: 150px;
+ height: 50px;
+ cursor: pointer;
+ display: flex;
+ align-items: center;
+ background: red;
+ border: none;
+ border-radius: 5px;
+ box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+ background: #e62222;
 }
 
-.button-39:hover {
-  background-color: rgb(249,250,251);
+button, button span {
+ transition: 200ms;
 }
 
-.button-39:focus {
-  outline: 2px solid transparent;
-  outline-offset: 2px;
+button .text {
+ transform: translateX(35px);
+ color: white;
+ font-weight: bold;
 }
 
-.button-39:focus-visible {
-  box-shadow: none;
-}</style>
+button .icon {
+ position: absolute;
+ border-left: 1px solid #c41b1b;
+ transform: translateX(110px);
+ height: 40px;
+ width: 40px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+button svg {
+ width: 15px;
+ fill: #eee;
+}
+
+button:hover {
+ background: #ff3636;
+}
+
+button:hover .text {
+ color: transparent;
+}
+
+button:hover .icon {
+ width: 150px;
+ border-left: none;
+ transform: translateX(0);
+}
+
+button:focus {
+ outline: none;
+}
+
+button:active .icon svg {
+ transform: scale(0.8);
+}
+</style>

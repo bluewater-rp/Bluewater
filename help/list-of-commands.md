@@ -4,6 +4,7 @@ As Bluewater State Roleplay uses a custom command system, we have decided to mak
 <br>
 
 ### Player Commands
-!help - Requests Admin Help
-?? notepad - Opens a virtual notepad
+> !help - Requests Admin Help
+<br>
+> ?notepad - Opens a virtual notepad
 

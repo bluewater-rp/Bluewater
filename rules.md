@@ -1,1 +1,1 @@
-# Bluewater Roleplay Rules
+# Rules

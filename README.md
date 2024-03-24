@@ -12,8 +12,7 @@ Welcome to Bluewater Roleplay, the all-new, action-packed roleplay game availabl
 
 ## Game Update Log
 No updates to show. 
-
-
+<br>
 
 **© Bluewater Roleplay 2024**<br>
 [Discord](https://discord.bluewater-rp.com)

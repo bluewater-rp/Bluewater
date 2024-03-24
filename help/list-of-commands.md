@@ -5,5 +5,12 @@ As Bluewater State Roleplay uses a custom command system, we have decided to mak
 
 ### Player Commands
 > !help - Requests Admin Help.<br>
-> ?notepad - Opens virtual notepad.
-<br>``This is a coding block test``
+> ?notepad - Opens virtual notepad.<br>
+
+## Administration Commands
+> /ban - Bans a user.<br>
+> /pban - Perm Bans a user.<br>
+> /kick - Kicks a user.<br>
+> /m - Sends an announcement.<br>
+> .announce - Sends a notification.<br>
+> /sm - Sends a system announcement.<br>

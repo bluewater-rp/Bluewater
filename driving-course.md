@@ -1,5 +1,4 @@
-# Bluewater Roleplay
-## Driving Courses
+# Driving Course
 Here at Bluewater Roleplay, we have multiple courses you can go on to improve your skills of driving. 
 
 ### Thats good and all, but how do I actually sign up?

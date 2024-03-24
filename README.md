@@ -17,4 +17,5 @@ No updates to show.
 
 **© Bluewater Roleplay 2024**
 [Discord](https://discord.bluewater-rp.com)
+<br>
 [Early Access](https://bluewater-rp.com/join)

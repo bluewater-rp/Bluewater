@@ -1,4 +1,4 @@
-# Bluewater Roleplay 
+# Home
 Welcome to Bluewater Roleplay, the all-new, action-packed roleplay game available on XBOX & PC.  
 
 ## Meet the staff

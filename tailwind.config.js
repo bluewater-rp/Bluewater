@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: { "50": "#eff6ff", "100": "#dbeafe", "200": "#bfdbfe", "300": "#93c5fd", "400": "#60a5fa", "500": "#3b82f6", "600": "#2563eb", "700": "#1d4ed8", "800": "#1e40af", "900": "#1e3a8a" }
+        primary: { "50": "#ffffff", "100": "#ffffff", "200": "#ffffff", "300": "#ffffff", "400": "#ffffff", "500": "#ffffff", "600": "#ffffff", "700": "#ffffff", "800": "#ffffff", "900": "#ffffff" }
       }
     },
   },

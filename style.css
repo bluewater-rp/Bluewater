@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #050510;
+    background-color: #181818;
 }
 .wrapper{
     width: 40%;
@@ -27,8 +27,8 @@ body{
     height: 220px;
     width: 220px;
     background: linear-gradient(
-        #ff0e72,
-        #ff66a6
+        #0069f3,
+        #0069f3
     );
     border-radius: 50%;
     position: absolute;
@@ -40,8 +40,8 @@ body{
     height: 180px;
     width: 180px;
     background: linear-gradient(
-        #3da5e0,
-        #325ea5
+        #0069f3,
+        #0069f3
     );
     border-radius: 50%;
     position: absolute;
@@ -80,8 +80,8 @@ h2{
     width: 0;
     height: 5px;
     border-radius: 10px;
-    background-color: #badefc;
-    border: 1px solid #1c97fc;
+    background-color: #0069f3;
+    border: 1px solid #0069f3;
     box-shadow: 0 0 5px rgba(28,151,252,0.6);
 }
 #html-bar{

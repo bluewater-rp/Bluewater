@@ -14,7 +14,7 @@
 
 <style>
 
-html {
+html { /* Main style of site */
 color: #B0B0B0;
 background: #181818;
 font-family: "Poppins", sans-serif;
@@ -22,7 +22,7 @@ font-weight: 400;
 font-style: normal;
         }
 
-header {
+header { /* Sticky Navbar */
 color: #ffffff;
 background: #0069f3;
 padding: 1px;
@@ -35,7 +35,7 @@ border-radius: 7px;
 position: sticky; top: 0;
         }
 
-footer {
+footer { /* Copyright Message/Footer */
 color: #ffffff;
 background: #0069f3;
 padding: 1px;
@@ -47,7 +47,7 @@ border: none;
 border-radius: 7px;
         }
         
-button {
+button { /* Button */
 background: #0069f3;
 border: none;
 padding: 7px;
@@ -58,13 +58,57 @@ font-style: normal;
 color: #B0B0B0;
         }
 
-code {
+code { /* Standard Code Block */
 background: #202020;
 color: #0069f3;
 font-family: "Poppins", sans-serif;
 font-weight: 300;
 font-style: italic;
         }
+
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
 
 </style>
 
@@ -75,12 +119,14 @@ font-style: italic;
 <header>
 
 <p>🌴 Coral County Roleplay</p>
-<a href="https://coralcountyrblx.xyz/">
-<button>Home</button>
-</a>
-
-<a href="https://coralcountyrblx.xyz/staff">
-<button>Our Staff Team</button> </a>
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
 <br>
 
 </header>

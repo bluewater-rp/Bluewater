@@ -35,39 +35,26 @@
 
 </head> 
 
-<body> 
-	<h1 style="text-align: center;"> 
-		Welcome to GeeksforGeeks. 
-	</h1> 
-	<h1 style="text-align: center;"> 
-		Hi, We are creating a 
-		custom context menu here. 
-	</h1> 
+<body>
 
-	<div id="contextMenu" class="context-menu"
-		style="display:none"> 
-		<ul> 
-			<li><a href="#">Element-1</a></li> 
-			<li><a href="#">Element-2</a></li> 
-			<li><a href="#">Element-3</a></li> 
-			<li><a href="#">Element-4</a></li> 
-			<li><a href="#">Element-5</a></li> 
-			<li><a href="#">Element-6</a></li> 
-			<li><a href="#">Element-7</a></li> 
-		</ul> 
-	</div> 
+<div id="contextMenu" class="context-menu"style="display:none"> 
+<ul> 
+<li><a href="https://coralcountyrblx.xyz/"><button>Test Link</button></a></li>
+</ul> 
 
-	<script> 
-		document.onclick = hideMenu; 
-		document.oncontextmenu = rightClick; 
+</div> 
 
-		function hideMenu() { 
-			document.getElementById( 
-				"contextMenu").style.display = "none" 
+<script> 
+document.onclick = hideMenu; 
+document.oncontextmenu = rightClick; 
+
+function hideMenu() { 
+document.getElementById( 
+"contextMenu").style.display = "none" 
 		} 
 
-		function rightClick(e) { 
-			e.preventDefault(); 
+function rightClick(e) { 
+e.preventDefault(); 
 
 			if (document.getElementById( 
 				"contextMenu").style.display == "block") 

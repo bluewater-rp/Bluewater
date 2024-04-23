@@ -4,12 +4,11 @@ background: #181818;
 font-family: "Poppins", sans-serif;
 font-weight: 400;
 font-style: normal;
-background-image:url("bg.png");
         }
 
 header { /* Navbar & Header Styling */
 color: #ffffff;
-background: #0069f3;
+background: #707070;
 padding: 5px;
 padding-left: 5px;
 font-family: "Poppins", sans-serif;
@@ -18,11 +17,13 @@ font-style: normal;
 border: none;
 border-radius: 7px;
 position: sticky; top: 0;
+opacity: 0.1;
+
         }
 
 footer { /* Footer Styling */
 color: #ffffff;
-background: #0069f3;
+background: #707070;
 padding: 5px;
 padding-left: 5px;
 font-family: "Poppins", sans-serif;
@@ -32,6 +33,7 @@ border: none;
 border-radius: 7px;
 position: sticky; bottom: 0;
 width: 99%;
+opacity: 0.1;
         }
         
 button { /* Button Styling */

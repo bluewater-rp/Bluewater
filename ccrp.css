@@ -4,6 +4,7 @@ background: #181818;
 font-family: "Poppins", sans-serif;
 font-weight: 400;
 font-style: normal;
+background-image:url("bg.png");
         }
 
 header { /* Navbar & Header Styling */

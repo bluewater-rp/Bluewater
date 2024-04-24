@@ -46,6 +46,7 @@ font-weight: 600;
 font-style: normal;
 color: #B0B0B0;
 font-size: 20px;
+z-index: 2;
         }
 
 code { /* Code Block Styling */

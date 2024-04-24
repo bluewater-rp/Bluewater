@@ -8,7 +8,6 @@ font-style: normal;
 
 header { /* Navbar & Header Styling */
 color: #ffffff;
-background: #707070;
 padding: 5px;
 padding-left: 5px;
 font-family: "Poppins", sans-serif;
@@ -23,7 +22,6 @@ background: rgba(112, 112, 112, 0.1);
 
 footer { /* Footer Styling */
 color: #ffffff;
-background: #707070;
 padding: 5px;
 padding-left: 5px;
 font-family: "Poppins", sans-serif;
@@ -37,7 +35,6 @@ background: rgba(112, 112, 112, 0.1);
         }
         
 button { /* Button Styling */
-background: #0069f3;
 border: none;
 padding: 7px;
 border-radius: 7px;
@@ -51,8 +48,7 @@ background: rgba(112, 112, 112, 0.1);
         }
 
 code { /* Code Block Styling */
-background: #202020;
-color: #0069f3;
+color: #ffffff;
 font-family: "Poppins", sans-serif;
 font-weight: 300;
 font-style: bold;

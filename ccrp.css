@@ -1,6 +1,7 @@
 html { /* Main Page Colors & Styles */
 color: #B0B0B0;
-background-image: url("bg.jpeg");
+background: url("bg.jpeg") no-repeat;
+background-size: cover;
 background-attachment: fixed;
 font-family: "Poppins", sans-serif;
 font-weight: 400;

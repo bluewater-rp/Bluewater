@@ -21,6 +21,7 @@ font-style: normal;
 border: none;
 border-radius: 7px;
 position: sticky; top: 0;
+width: 99%;
 background: rgba(112, 112, 112, 0.5);
         }
 

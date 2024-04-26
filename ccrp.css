@@ -21,7 +21,7 @@ font-style: normal;
 border: none;
 border-radius: 7px;
 position: sticky; top: 0;
-background: rgba(112, 112, 112, 0.1);
+background: rgba(112, 112, 112);
         }
 
 footer { /* Footer Styling */
@@ -35,7 +35,7 @@ border: none;
 border-radius: 7px;
 position: sticky; bottom: 0;
 width: 99%;
-background: rgba(112, 112, 112, 0.1);
+background: rgba(112, 112, 112);
         }
         
 button { /* Button Styling */

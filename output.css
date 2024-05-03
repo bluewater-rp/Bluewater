@@ -2492,3 +2492,12 @@ input:checked + .toggle-bg {
   background: #0090f5; 
 }
 
+
+.badge {
+  background-color: #0069f3;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+

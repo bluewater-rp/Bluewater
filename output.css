@@ -2444,5 +2444,13 @@ input:checked + .toggle-bg {
     font-size: 3.75rem;
     line-height: 1;
   }
+    .badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+  }
 }
 

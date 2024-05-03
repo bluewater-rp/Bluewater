@@ -2503,46 +2503,6 @@ div {
   border-left: 6px solid #2196F3;
   width: 100%;
 }
-@inject ISnackbar Snackbar
+
 </style>
 </head>
-<body>
-
-<h2>Notes</h2>
-<div class="info">
-  <p><strong>Info!</strong> Website is showing information from version 1.4+. Please ask a Community Manager for information on versions before 1.4.</p>
-</div>
-</body>
-</html>
-<html>
-<head>
-<style>
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #fff; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #0069f3; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #0090f5; 
-}
-</style>
-</head>   
-
-
-
-<MudButton Color="Color.Dark" @onclick="@(() => Snackbar.Add("The reactor type is RBMK-1000", Severity.Normal))">Normal Snackbar</MudButton>
-<MudButton Color="Color.Info" @onclick="@(() => Snackbar.Add("The reactor was fired up successfully", Severity.Info))">Info Snackbar</MudButton>
-<MudButton Color="Color.Success" @onclick="@(() => Snackbar.Add("The reactor is running at optimum temperature", Severity.Success))">Success Snackbar</MudButton>
-<MudButton Color="Color.Warning" @onclick="@(() => Snackbar.Add("The reactor temperature exceeds the optimal range", Severity.Warning))">Warning Snackbar</MudButton>
-<MudButton Color="Color.Error" @onclick="@(() => Snackbar.Add("Reactor meltdown is imminent", Severity.Error))">Error Snackbar</MudButton>

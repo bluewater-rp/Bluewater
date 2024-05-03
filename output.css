@@ -2471,26 +2471,5 @@ input:checked + .toggle-bg {
 .closebtn:hover {
   color: black;
 }
-
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #fff; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #0069f3; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #0090f5; 
-}
-
   border-left: 6px solid #ffeb3b;
 }

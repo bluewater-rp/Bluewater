@@ -2445,7 +2445,7 @@ input:checked + .toggle-bg {
     line-height: 1;
   }
     .badge {
-  background-color: red;
+  background-color: #0069f3;
   color: white;
   padding: 4px 8px;
   text-align: center;

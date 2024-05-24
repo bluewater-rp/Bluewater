@@ -259,6 +259,53 @@
 </html>
 
 <!-- Widgets -->
+
+             <style>
+pre[class*='language-'] {
+  @apply !m-0 !rounded-xl !bg-gray-900 !p-4;
+}
+
+.dark pre[class*='language-'] {
+  @apply !m-0 !rounded-xl !bg-gray-800 !p-4;
+}
+
+.token:is(.property, .tag, .constant, .symbol, .deleted) {
+  @apply !text-red-400;
+}
+
+.token:is(.selector, .attr-name, .string, .char, .builtin, .inserted) {
+  @apply !text-yellow-400;
+}
+
+.token:is(.atrule, .attr-value, .function, .class-name) {
+  @apply !text-green-400;
+}
+
+.token:is(.comment, .prolog, .doctype, .cdata) {
+  @apply !text-gray-400;
+}
+
+.token:is(.operator, .entity, .url, .variable) {
+  @apply !text-white;
+}
+
+.token:is(.boolean, .number) {
+  @apply !text-purple-400;
+}
+
+.token.keyword {
+  @apply !text-cyan-400;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-padding-top: 80px;
+}
+
+             </style>
              <div role="alert" class="rounded-xl border border-gray-100 bg-white p-4">
   <div class="flex items-start gap-4">
     <span class="text-green-600">
